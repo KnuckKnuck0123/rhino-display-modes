@@ -8,15 +8,15 @@ Most of these display modes were sourced and shared by users in this thread:
 
 ## How to Install
 1. Open Rhino.
-2. Go to `Tools` > `Options`.
-3. Navigate to `View` > `Display Modes`.
+2. Go to **File** > **Properties** (Document Properties).
+3. Navigate to **View** > **Display Modes**.
 4. Click **Import** and select the `.ini` files from this collection.
 
 ## Setting up Environment Maps
 Some display modes (like MatCaps or Toon shaders) require an environment map to be assigned within the display mode settings to look correct.
 
 To "wire up" an environment map:
-1. Go to `Tools` > `Options` > `View` > `Display Modes`.
+1. Go to **File** > **Properties** (Document Properties) > **View** > **Display Modes**.
 2. Select the specific display mode from the list (e.g., a MatCap mode).
 3. In the display mode tree on the left, expand it and look for **Shading Settings** or **Custom Game Tools/Rendering Material**.
 4. Look for the **Environment** map slot or **Custom Rendering Material** settings.
