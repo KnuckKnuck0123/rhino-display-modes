@@ -25,3 +25,6 @@ To "wire up" an environment map:
 Refer to the image below for the settings configuration:
 
 ![Environment Setup Guide](environment_setup.png)
+
+> [!TIP]
+> The environment map doesn't need to be 100% like the example. Users should experiment and play with different maps based on their personal likes and specific project needs.
