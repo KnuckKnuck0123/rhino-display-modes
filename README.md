@@ -33,19 +33,16 @@ Certain display modes (such as MatCaps, shaded glossy modes, studio lighting, or
 | :---: | :---: |
 | ![Environment Setting Dialog](assets/environment_setting_dialog.png) | ![Sphere Result Preview](assets/example_sphere_preview.png) |
 
-#### Full Document Properties View:
-![Environment Setup Guide](environment_setup.png)
-
 > [!TIP]
-> **Experiment with different maps:** The assigned environment map does not have to match the default. Swap between duotones, watercolors, halftones, or studio reflections from the catalog below to match your project aesthetic.
+> **Experiment with different maps:** The assigned environment map does not have to match the default. Swap between duotones, watercolors, halftones, neon light lines, or studio reflections from the catalog below to match your project aesthetic.
 
 ---
 
 ## Environment Maps & MatCaps Catalog
 
-Below is a preview grid of all 40 high-resolution MatCap environment maps included in the [`MATCAP_TOON`](MATCAP_TOON/) directory:
+A complete visual index of all **53 environment maps, MatCaps, studio reflection maps, neon strips, and viewport gradients** available in this collection:
 
-![MatCap Environment Maps Grid](assets/matcaps_grid.png)
+![Environment Maps Catalog Grid](assets/all_environment_maps_grid.png)
 
 ---
 
