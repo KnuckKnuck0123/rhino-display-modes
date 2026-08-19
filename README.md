@@ -17,6 +17,14 @@ Most of these display modes were sourced and shared by the McNeel Discourse comm
 
 ---
 
+## Featured Display Modes Showcase
+
+Visual preview of custom shading and viewport display modes included in the collection (featuring **Badass 2**, the **Bobi series**, **Car Paint**, **Crackdown 12**, and **Lightlines**):
+
+![Featured Display Modes Showcase](assets/display_modes_showcase.png)
+
+---
+
 ## Setting Up Environment Maps & MatCaps
 
 Certain display modes (such as MatCaps, shaded glossy modes, studio lighting, or Toon shaders) require an environment map or background map assigned in their shading settings to achieve their intended appearance.
